@@ -5,8 +5,8 @@ Alice Intrinsics
 "base_alice"\Core\Intrinsics.hpp
 
 # 3rd-party dependencies
-intrin.h in case of MSVC
-arm-neon.h in case of ARM64 Clang/GCC
+intrin.h in case of MSVC,
+arm-neon.h in case of ARM64 Clang/GCC,
 x86intrin.h in case of Clang/GCC
 
 # Notes
