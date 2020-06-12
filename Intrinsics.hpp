@@ -1,4 +1,3 @@
-//Copyright 2020 Iris Technologies, All Rights Reserved
 #pragma once
 
 #if defined(_MSC_VER)
